@@ -1,5 +1,8 @@
 # Visualisation with Dash (with Deployment)
 
+## Deployed App:
+Available on [Heroku.](https://visualise-airline-data-app.herokuapp.com/) 
+
 ## Note:
 It was not possible to push the airline_2m.csv file to GitHub in the allocated timeframe due to its large size. Should you wish to use this repo, you can download the csv file [here](https://dax-cdn.cdn.appdomain.cloud/dax-airline/1.0.1/airline_2m.tar.gz?_ga=2.198942319.1119461549.1638211202-796443461.1638211202). Once it's downloaded, unzip the file and move it to the 'data' directory in the download project folder. 
 
@@ -27,6 +30,6 @@ Use the dataset from [airline reporting carier ontime performance dataset](https
 # My Work Log and User Instructions:
 
 1. Assignment completed
-2. The usable csv file has been reduced due to it's large file size and is available to download from my google drive [here:](https://drive.google.com/drive/folders/1mqLf_6n6sDSerYR-toKyCKWNGNKw6yUL?usp=sharing)
+2. A usable csv file has been reduced due to it's large file size and is available to download from my google drive [here:](https://drive.google.com/drive/folders/1mqLf_6n6sDSerYR-toKyCKWNGNKw6yUL?usp=sharing)
 3. You can then upload the csv file to the app.
 4. Select a delay type from the dropdown list and select the year using the slider
